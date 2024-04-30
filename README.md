@@ -50,41 +50,50 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 data.head()
 
-![image](https://github.com/sasirath13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/160568449/522af085-b32b-4659-a8c8-44b456a0a839)
+![image](https://github.com/MOHAMEDFARIKH2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/168570140/27b2bcb2-da89-4efb-bae4-b67be863b902)
+
+
 
 data.info()
 
-![image](https://github.com/sasirath13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/160568449/b3ea549d-2f5a-41ad-b581-f3b1e727ec71)
+![image](https://github.com/MOHAMEDFARIKH2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/168570140/75ba62cc-2dd6-4909-bafb-b3f4897f1f1c)
+
+
 
 isnull() and sum()
 
-![image](https://github.com/sasirath13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/160568449/dbbc1472-ac3f-458a-9395-6a8687a7bcc9)
+![image](https://github.com/MOHAMEDFARIKH2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/168570140/4d2c5301-d36d-4643-9590-f7391c585a0f)
+
+
 
 data value counts()
 
-![image](https://github.com/sasirath13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/160568449/b4691f6e-5ce2-4b98-b95a-6755c64d63ab)
+![image](https://github.com/MOHAMEDFARIKH2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/168570140/5e1787f9-b035-499e-a6f5-e19b38a558b2)
+
 
 data.head() for salary
 
+![image](https://github.com/MOHAMEDFARIKH2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/168570140/498dd35b-d410-4813-a5c1-cd2e1816559a)
 
-![image](https://github.com/sasirath13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/160568449/42ac836c-097f-4ae8-9cc4-f6a2d66cb021)
 
 
 x.head()
 
+![image](https://github.com/MOHAMEDFARIKH2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/168570140/7c3b2727-ffa1-495a-bfbf-ce80f71ee2fd)
 
-![image](https://github.com/sasirath13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/160568449/9150e96d-5614-4456-8b5a-005293aadd81)
 
 
 accuracy value()
 
+![image](https://github.com/MOHAMEDFARIKH2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/168570140/d268f33e-fcf0-4b9f-a09a-0448a0a63856)
 
-![image](https://github.com/sasirath13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/160568449/1689aff5-43f9-4896-9553-c935d8631adc)
+
 
 data prediction
 
+![image](https://github.com/MOHAMEDFARIKH2/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/168570140/3cbc7e0a-2879-4cb9-b634-c67fb6b9d260)
 
-![image](https://github.com/sasirath13/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/160568449/1fe8d4e0-5c1f-4cf1-b0d5-85c435fc9fcc)
+
 
 
 ## Result:
